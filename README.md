@@ -1,2 +1,12 @@
 # Linearcode
-Linear Code encryption &amp; decryption algorithm made with Matlab and Gui 
+---
+
+<h3>
+Linear Code encryption &amp; decryption algorithm
+</h3>
+
+<h4>Made with</h4>
+
+- Matlab
+- Gui 
+---
